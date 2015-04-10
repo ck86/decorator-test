@@ -1,4 +1,3 @@
-import $ from 'jquery';
 import {bindable} from './utils/scope';
 import {Element, element, listen} from './dom/element';
 import {Attribute, attribute} from './dom/attribute';

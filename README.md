@@ -11,7 +11,7 @@
 ## Installation
 
 ```bash
-git clone git@gitlab.ck-coding.com:chris/decorator-test.git
+git clone git@github.com:ck86/decorator-test.git
 jspm install
 ```
 
